@@ -6,3 +6,4 @@
 
 [BaseDeDatos](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Equipo_10-Ejercicio%20Base%20de%20Datos.pdf)
 
+[Ejercicios de Phyton](https://github.com/CruzLermaJorge/MineriaDatosJorge/blob/main/Ej_Phyton_1867341.ipynb)
