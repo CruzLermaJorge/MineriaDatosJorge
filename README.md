@@ -8,3 +8,5 @@
 
 [Ejercicios de Python](https://github.com/CruzLermaJorge/MineriaDatosJorge/blob/main/Ej_Phyton_1867341.ipynb)
 
+[Limpieza de Datos](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Ej_Limpieza_Equipo10.ipynb)
+
