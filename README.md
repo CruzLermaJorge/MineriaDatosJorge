@@ -1,6 +1,6 @@
 # MineriaDatosJorge
 
-# Fase 1
+# # Fase 1
 
 [MapaMental1](https://github.com/CruzLermaJorge/MineriaDatosJorge/blob/main/MapaMental_1_1867341.pdf)
 
@@ -11,4 +11,9 @@
 [Limpieza de Datos](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Ej_Limpieza_Equipo10.ipynb)
 
 [Avance del PIA](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Avance1_PIA_Equipo10.ipynb)
+
+# # Fase 2
+
+[Presentacion](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Presentacion_%C3%81rboles%20de%20Decisi%C3%B3n_Equipo10.pdf)
+
 
