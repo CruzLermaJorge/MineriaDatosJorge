@@ -16,4 +16,5 @@
 
 [Presentacion](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Presentacion_%C3%81rboles%20de%20Decisi%C3%B3n_Equipo10.pdf)
 
+[Programa-Presentacion](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/C%C3%B3digo_%C3%81rboles%20de%20decisi%C3%B3n_Equipo%2010.ipynb)
 
