@@ -22,4 +22,7 @@
 
 [Practica 2](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Visualizacion_Equipo10.ipynb)
 
+[Avance II del PIA](https://github.com/CruzLermaJorge/MineriaDatosJorge/blob/main/AvancePIA_II_002_10.ipynb)
+
+
 
