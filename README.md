@@ -20,3 +20,6 @@
 
 [Preguntas-Presentacion](https://github.com/CruzLermaJorge/MineriaDatosJorge/blob/main/Preguntas_Arboles%20de%20decision_Eq%2310.pdf)
 
+[Practica 2](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Visualizacion_Equipo10.ipynb)
+
+
