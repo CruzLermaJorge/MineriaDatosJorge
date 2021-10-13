@@ -24,5 +24,6 @@
 
 [Avance II del PIA](https://github.com/CruzLermaJorge/MineriaDatosJorge/blob/main/AvancePIA_II_002_10.ipynb)
 
+[Tecnica de mineria de datos](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/T%C3%A9cnicaMiner%C3%ADa_Equipo10.ipynb)
 
 
