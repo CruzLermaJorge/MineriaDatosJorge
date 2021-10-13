@@ -26,4 +26,5 @@
 
 [Tecnica de mineria de datos](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/T%C3%A9cnicaMiner%C3%ADa_Equipo10.ipynb)
 
+[Avance II corregido](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/AvancePIA_II_002_10_(Corregido).ipynb)
 
