@@ -28,3 +28,6 @@
 
 [Avance II corregido](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/AvancePIA_II_002_10_(Corregido).ipynb)
 
+[Notebook](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/PIA_002_Equipo10_Bitcoin.ipynb)
+
+
